@@ -2,7 +2,7 @@
 title: Monty Python Sketches
 layout: collection
 permalink: /sketches/
-collection: sketch
+collection: sketches
 entries_layout: grid
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Sketch Category
 layout: category
-permalink: /categories/sketch/
+permalink: /categories/sketches/
 taxonomy: Sketch
 ---
