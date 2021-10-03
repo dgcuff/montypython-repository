@@ -1,6 +1,6 @@
 ---
 title: Monty Python Tag List
-layout: default
+layout: page
 ---
 {% assign rawtags = "" %}
 {% for sketch in site.sketches %}
@@ -32,7 +32,7 @@ layout: default
 {% for tag in tags %}
 	<h2 id="{{ tag | slugify }}">{{ tag }}</h2>
 	<ul>
-	 {% for sketch in site.sketchs %}
+	 {% for sketch in site.sketches %}
 		 {% if sketch.tags contains tag %}
 		 <li>
 		 <h3>
