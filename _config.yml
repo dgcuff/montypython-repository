@@ -48,3 +48,18 @@ defaults:
     values:
       layout: post
       share: true
+
+# Footer Links
+footer_links:
+  - title: Twitter
+    url: https://twitter.com/matt_zaske
+    icon: fab fa-twitter
+  - title: Facebook
+    url: https://facebook.com/zaskem
+    icon: fab fa-facebook
+  - title: GitHub
+    url: https://github.com/zaskem
+    icon: fab fa-github
+  - title: Website
+    url: https://mzonline.com
+    icon: fas fa-globe
