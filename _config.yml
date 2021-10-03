@@ -1,2 +1,6 @@
 #theme: jekyll-theme-slate
 remote_theme: mmistakes/so-simple-theme
+logo: "/images/pythonlogo.jpg"
+google_analytics: "UA-1931908-7"
+twitter:
+  username: "matt_zaske"
