@@ -1,13 +1,13 @@
 ---
 title: "The Lumberjack Song"
 categories:
-  - sketches
+  - flying circus
 tags:
   - sketch
   - song
 ---
 
-## From "Monty Python's Flying Circus""
+## From "Monty Python's Flying Circus"
 ### Transcribed from tape 3/6/87 by Malcolm Dickinson
 
 ---
@@ -72,7 +72,7 @@ I wish I'd been a girlie\
 Just like my dear papa._
  
 **Mounties**: _He cuts down trees, he wears high heels\
-	  Suspendies?? and a .... a Bra????_
+Suspendies?? and a .... a Bra????_
 
 _(spoken, raggedly)_ What's this?  Wants to be a _girlie_?  Oh, My!\
 And I thought you were so rugged!  Poofter!
@@ -86,10 +86,10 @@ And I thought you were so rugged!  Poofter!
 _-or-_
  
 Dear Sir,\
-  I wish to complain on the stronglyest possible terms about the previous entry in this file about the lumberjack who wears womens' clothes.  Some of my best friends are lumberjacks, and only a FEW of them are transvestites.
+I wish to complain on the stronglyest possible terms about the previous entry in this file about the lumberjack who wears womens' clothes.  Some of my best friends are lumberjacks, and only a FEW of them are transvestites.
  
 Yours faithfully,\
 Brigadier Sir Charles Arthur Strong, Mrs.
  
-  P.S.	I have never kissed the editor of the radio times.
+P.S.	I have never kissed the editor of the radio times.
  
