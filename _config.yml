@@ -7,3 +7,33 @@ logo: "/images/pythonlogo.jpg"
 google_analytics: "UA-1931908-7"
 twitter:
   username: "matt_zaske"
+read_time: true
+words_per_minute: 200
+
+# Taxonomy pages
+category_archive_path: "/categories/#"
+tag_archive_path: "/tags/#"
+
+# Front Matter Defaults
+defaults:
+  # Posts defaults
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      share: true
+  # Sketches defaults
+  - scope:
+      path: "_sketches"
+      type: sketches
+    values:
+      layout: post
+      share: true
+  # Holy Grail defaults
+  - scope:
+      path: "_holygrail"
+      type: holygrail
+    values:
+      layout: post
+      share: true
