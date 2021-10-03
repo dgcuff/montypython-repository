@@ -8,7 +8,6 @@ tags:
   - flying circus
 ---
 
-# The Spam Sketch
 ## From the second series of "Monty Python's Flying Circus"
 ### Transcribed 9/17/87 from "Monty Python's Previous Record" by Jonathan Partington
 
