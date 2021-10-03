@@ -9,7 +9,6 @@ layout: default
 {% endfor %}
 {% assign rawtags = rawtags | split:'|' | sort %}
 
-{% endcomment %}
 {% assign tags = "" %}
 {% for tag in rawtags %}
 	{% if tag != "" %}
