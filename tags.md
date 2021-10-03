@@ -1,6 +1,6 @@
 ---
 title: Monty Python Tag Archive
-layout: tag
+layout: tags
 permalink: /tags/
 show_excerpts: true
 entries_layout: list
