@@ -1,5 +1,8 @@
 #theme: jekyll-theme-slate
 remote_theme: mmistakes/so-simple-theme
+title: "Matt's Monty Python Repository"
+description: "Home of Monty Python transcripts"
+url: "https://zaskem.github.io/montypython-repository"
 logo: "/images/pythonlogo.jpg"
 google_analytics: "UA-1931908-7"
 twitter:
