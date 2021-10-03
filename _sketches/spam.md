@@ -1,11 +1,9 @@
 ---
 title: "The Spam Sketch"
 categories:
-  - sketches
+  - sketch
 tags:
-  - sketches
-  - spam
-  - flying circus
+  - sketch
 ---
 
 ## From the second series of "Monty Python's Flying Circus"
