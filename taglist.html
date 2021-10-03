@@ -3,8 +3,8 @@ title: Monty Python Tag List
 layout: page
 ---
 {% assign rawtags = "" %}
-{% for page in site.sketches %}
-	{% assign ttags = page.tags | join:'|' | append:'|' %}
+{% for sketch in site.sketches %}
+	{% assign ttags = sketch.tags | join:'|' | append:'|' %}
 	{% assign rawtags = rawtags | append:ttags %}
 {% endfor %}
 {% assign rawtags = rawtags | split:'|' | sort %}
@@ -28,19 +28,19 @@ layout: page
 
 <hr />
 
-<h2>Pages by Tag</h2>
+<h2>Sketches by Tag</h2>
 {% for tag in tags %}
 	<h2 id="{{ tag | slugify }}">{{ tag }}</h2>
 	<ul>
-	 {% for page in site.pages %}
-		 {% if page.tags contains tag %}
+	 {% for sketch in site.sketchs %}
+		 {% if sketch.tags contains tag %}
 		 <li>
 		 <h3>
-		 <a href="{{ page.url }}">
-		 {{ page.title }}
-		 <small>{{ page.date | date_to_string }}</small>
+		 <a href="{{ sketch.url }}">
+		 {{ sketch.title }}
+		 <small>{{ sketch.date | date_to_string }}</small>
 		 </a>
-		 {% for tag in page.tags %}
+		 {% for tag in sketch.tags %}
 			 <a class="tag" href="/blog/tag/#{{ tag | slugify }}">{{ tag }}</a>
 		 {% endfor %}
 		 </h3>
