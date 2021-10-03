@@ -3,7 +3,7 @@ title: "The Spam Sketch"
 categories:
   - sketches
 tags:
-  - sketches
+  - sketch
 ---
 
 ## From the second series of "Monty Python's Flying Circus"
