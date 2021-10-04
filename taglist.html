@@ -22,31 +22,26 @@ layout: page
 {% endfor %}
 
 <h2>Unique Tags</h2>
-{% for tag in tags %}
-	<a href="#{{ tag | slugify }}"> {{ tag }} </a>
+<ul class="taxonomy-index">
+	{% for tag in tags %}
+	<li>
+		<a href="#{{ tag | slugify }}">{{ tag }}</a>
+	</li>
 {% endfor %}
+</ul>
 
 <hr />
 
 <h2>Sketches by Tag</h2>
 {% for tag in tags %}
-	<h2 id="{{ tag | slugify }}">{{ tag }}</h2>
-	<ul>
+<section id="{{ tag | slugify | downcase }}" class="taxonomy-section">
+	<h2 class="taxonomy-title">{{ tag }}</h2>
 	 {% for sketch in site.sketches %}
-		 {% if sketch.tags contains tag %}
-		 <li>
-		 <h3>
-		 <a href="{{ sketch.url }}">
-		 {{ sketch.title }}
-		 <small>{{ sketch.date | date_to_string }}</small>
-		 </a>
-		 {% for tag in sketch.tags %}
-			 <a class="tag" href="/blog/tag/#{{ tag | slugify }}">{{ tag }}</a>
-		 {% endfor %}
-		 </h3>
-		 </li>
-		 {% endif %}
+			{% if sketch.tags contains tag %}
+			<div class="entries-{{ page.entries_layout | default: 'list' }}">
+				<a href="{{ sketch.url }}">{{ sketch.title }}</a>
+			</div>
+			{% endif %}
 	 {% endfor %}
 	</ul>
 {% endfor %}
-
