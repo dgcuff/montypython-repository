@@ -23,7 +23,7 @@ collections:
     
 # Taxonomy pages
 category_archive_path: "/categories/#"
-tag_archive_path: "/tags/#"
+tag_archive_path: "/vnewlist/#"
 
 # Front Matter Defaults
 defaults:
