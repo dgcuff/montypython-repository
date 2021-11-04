@@ -22,8 +22,8 @@ collections:
     permalink: /:collection/:path/
     
 # Taxonomy pages
-category_archive_path: "/categorylist#"
-tag_archive_path: "/taglist#"
+category_archive_path: "/categories#"
+tag_archive_path: "/tags#"
 
 # Front Matter Defaults
 defaults:
