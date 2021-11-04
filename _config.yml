@@ -22,7 +22,7 @@ collections:
     permalink: /:collection/:path/
     
 # Taxonomy pages
-category_archive_path: "/categories/#"
+category_archive_path: "/categorylist#"
 tag_archive_path: "/taglist#"
 
 # Front Matter Defaults
