@@ -1,0 +1,47 @@
+---
+title: Monty Python Category List
+layout: page
+---
+{% assign rawcategories = "" %}
+{% for sketch in site.sketches %}
+	{% assign tcategories = sketch.categories | join:'|' | append:'|' %}
+	{% assign rawcategories = rawcategories | append:tcategories %}
+{% endfor %}
+{% assign rawcategories = rawcategories | split:'|' | sort %}
+
+{% assign categories = "" %}
+{% for category in rawcategories %}
+	{% if category != "" %}
+		{% if categories == "" %}
+			{% assign categories = category | split:'|' %}
+		{% endif %}
+		{% unless categories contains category %}
+			{% assign categories = categories | join:'|' | append:'|' | append:category | split:'|' %}
+		{% endunless %}
+	{% endif %}
+{% endfor %}
+
+<h2>Unique Categories</h2>
+<ul class="taxonomy-index">
+	{% for category in categories %}
+	<li>
+		<a href="#{{ category | slugify }}">{{ category }}</a>
+	</li>
+{% endfor %}
+</ul>
+
+<hr />
+
+<h2>Sketches by Category</h2>
+{% for category in categories %}
+<section id="{{ category | slugify | downcase }}" class="taxonomy-section">
+	<h2 class="taxonomy-title">{{ category }}</h2>
+	 {% for sketch in site.sketches %}
+			{% if sketch.categories contains category %}
+			<div class="entries-{{ page.entries_layout | default: 'list' }}">
+				<a href="{{ site.url}}{{ sketch.url }}">{{ sketch.title }}</a>
+			</div>
+			{% endif %}
+	 {% endfor %}
+	</ul>
+{% endfor %}
