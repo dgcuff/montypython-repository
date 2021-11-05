@@ -3,6 +3,7 @@ title: "Intro Credits"
 categories:
   - holy grail
 filmorder: 1
+sort_by: filmorder
 ---
 
 FADE IN:
