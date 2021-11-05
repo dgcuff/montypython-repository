@@ -7,3 +7,5 @@ entries_layout: grid
 ---
 
 Landing page for the `_holygrail` collection.
+
+---
