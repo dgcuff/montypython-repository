@@ -20,7 +20,6 @@ collections:
   holygrail:
     output: true
     permalink: /:collection/:path/
-    sort_by: filmorder
     
 # Taxonomy pages
 category_archive_path: "/categories#"
