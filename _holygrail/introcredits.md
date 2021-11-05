@@ -3,7 +3,7 @@ title: "Intro Credits"
 categories:
   - holy grail
 filmorder: 1
-sort_by: filmorder
+date: 2021-11-04 00:01:00
 ---
 
 FADE IN:
