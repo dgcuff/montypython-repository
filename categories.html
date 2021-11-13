@@ -21,11 +21,10 @@ layout: page
 	{% endif %}
 {% endfor %}
 
-<h2>Unique Categories</h2>
 <ul class="taxonomy-index">
 	{% for category in categories %}
 	<li>
-		<a href="#{{ category | slugify }}">{{ category }}</a>
+		<a href="#{{ category | slugify }}"><i class="far fa-list-alt"></i>{{ category }}</a>
 	</li>
 {% endfor %}
 </ul>
