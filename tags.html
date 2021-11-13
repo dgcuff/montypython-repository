@@ -21,11 +21,10 @@ layout: page
 	{% endif %}
 {% endfor %}
 
-<h2>Unique Tags</h2>
 <ul class="taxonomy-index">
 	{% for tag in tags %}
 	<li>
-		<i class="fas fa-tag"></i><a href="#{{ tag | slugify }}">{{ tag }}</a>
+		<a href="#{{ tag | slugify }}"><i class="fas fa-tag"></i>{{ tag }}</a>
 	</li>
 {% endfor %}
 </ul>
