@@ -25,14 +25,13 @@ layout: page
 <ul class="taxonomy-index">
 	{% for tag in tags %}
 	<li>
-		<a href="#{{ tag | slugify }}">{{ tag }}</a>
+		<i class="fas fa-tag"></i><a href="#{{ tag | slugify }}">{{ tag }}</a>
 	</li>
 {% endfor %}
 </ul>
 
 <hr />
 
-<h2>Sketches by Tag</h2>
 {% for tag in tags %}
 <section id="{{ tag | slugify | downcase }}" class="taxonomy-section">
 	<h2 class="taxonomy-title">{{ tag }}</h2>

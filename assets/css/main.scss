@@ -1,0 +1,23 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+sitemap: false
+---
+
+@charset "utf-8";
+
+@import "so-simple";
+
+.taxonomy-index {
+  display: flex;
+  grid-column-gap: 2em;
+  grid-template-columns: repeat(2, 1fr);
+  margin: 0;
+  padding: 0;
+  font-family: $base-font-family;
+  font-size: 0.9rem;
+  list-style: none;
+
+  a .fa-tag {
+    margin: 0.3em 0.4em 0 0;
+  }
+}
