@@ -15,7 +15,7 @@ _(a customer walks in the door.)_
  
 **Customer**: Good Morning.
 
-**Owner**: Good morning, Sir.  Welcome to the National Cheese Emporium!
+**Owner**: Good morning, Sir. Welcome to the National Cheese Emporium!
 
 **Customer**: Ah, thank you, my good man.
 
@@ -49,7 +49,7 @@ _(a customer walks in the door.)_
 
 **O**: So he can go on playing, can he?
 
-**C**: Most certainly!  Now then, some cheese please, my good man.
+**C**: Most certainly! Now then, some cheese please, my good man.
 
 **O**: _(lustily)_ Certainly, sir. What would you like?
 
@@ -119,17 +119,17 @@ _(a customer walks in the door.)_
 
 **C**: Camenbert, perhaps?
 
-**O**: Ah!	We have Camenbert, yessir.
+**O**: Ah! We have Camenbert, yessir.
 
 **C**: _(suprised)_ You do! Excellent.
 
-**O**: Yessir.  It's..ah,.....it's a bit runny...
+**O**: Yessir. It's..ah,.....it's a bit runny...
 
 **C**: Oh, I like it runny.
 
 **O**: Well,.. It's very runny, actually, sir.
 
-**C**: No matter. Fetch hither the fromage de la Belle France!  Mmmwah!
+**C**: No matter. Fetch hither the fromage de la Belle France! Mmmwah!
 
 **O**: I...think it's a bit runnier than you'll like it, sir.
 

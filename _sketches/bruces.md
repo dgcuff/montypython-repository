@@ -40,7 +40,7 @@ She's a good Sheila Bruce, and not at all stuck up.
 
 Here! Here's the boss-fellow now!
 
-'Ow  are you, Bruce?
+'Ow are you, Bruce?
 
 G'day Bruce!
 

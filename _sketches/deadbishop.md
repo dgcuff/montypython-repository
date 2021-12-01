@@ -95,7 +95,7 @@ _**Voice over**: One slice of strawberry tart without so much rat in it later:_
 
 **S**: Call the church police!
 
-**K**: All right. _(shouting)_ THE	CHURCH	POLICE	!!
+**K**: All right. _(shouting)_ THE CHURCH POLICE !!
  
 _(sirens racing up, followed by a tremendous crash)_
 
@@ -119,7 +119,7 @@ _(the church police burst in the door)_
 
 _(pause)_
 
-**D**: Disgusting!	Right!	Men, the chase is on! Now we should all kneel!
+**D**: Disgusting! Right! Men, the chase is on! Now we should all kneel!
 
 _(they all kneel)_
 

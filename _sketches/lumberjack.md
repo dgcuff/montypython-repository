@@ -8,21 +8,21 @@ tags:
 ---
 
 ## From "Monty Python's Flying Circus"
-### Transcribed from tape 3/6/87 by Malcolm Dickinson
+### Transcribed from tape by Malcolm Dickinson
 
 ---
 
-**Scene**:	Continued from Petshop, Barber, or a variety of other Python sketches....
+**Scene**: Continued from Petshop, Barber, or a variety of other Python sketches....
 
 I never wanted to do this job in the first place!
 
-I...  I wanted to be...
+I... I wanted to be...
  
 A LUMBERJACK!
  
 _(piano vamp)_
  
-Leaping from tree to tree!  As they float down the mighty rivers of British Columbia!  With my best girl by my side!
+Leaping from tree to tree! As they float down the mighty rivers of British Columbia! With my best girl by my side!
 
 The Larch!
 
@@ -34,12 +34,12 @@ The Sequoia!
 
 The Little Whopping Rule Tree!
 
-We'd sing!  Sing!  Sing!
+We'd sing! Sing! Sing!
  
 _Oh, I'm a lumberjack, and I'm okay,\
 I sleep all night and I work all day._
  
-**CHORUS**:  _He's a lumberjack, and he's okay,\
+**CHORUS**: _He's a lumberjack, and he's okay,\
 He sleeps all night and he works all day._
  
 _I cut down trees, I eat my lunch,\
@@ -74,8 +74,8 @@ Just like my dear papa._
 **Mounties**: _He cuts down trees, he wears high heels\
 Suspendies?? and a .... a Bra????_
 
-_(spoken, raggedly)_ What's this?  Wants to be a _girlie_?  Oh, My!\
-And I thought you were so rugged!  Poofter!
+_(spoken, raggedly)_ What's this? Wants to be a _girlie_? Oh, My!\
+And I thought you were so rugged! Poofter!
  
 **_CHORUS_**
  
@@ -86,10 +86,10 @@ And I thought you were so rugged!  Poofter!
 _-or-_
  
 Dear Sir,\
-I wish to complain on the stronglyest possible terms about the previous entry in this file about the lumberjack who wears womens' clothes.  Some of my best friends are lumberjacks, and only a FEW of them are transvestites.
+I wish to complain on the stronglyest possible terms about the previous entry in this file about the lumberjack who wears womens' clothes. Some of my best friends are lumberjacks, and only a FEW of them are transvestites.
  
 Yours faithfully,\
 Brigadier Sir Charles Arthur Strong, Mrs.
  
-P.S.	I have never kissed the editor of the radio times.
+P.S. I have never kissed the editor of the radio times.
  

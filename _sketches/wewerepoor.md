@@ -11,7 +11,7 @@ tags:
 
 ---
 
-**Scene**:	Four well-dressed men sitting together at a vacation resort. "Farewell to Thee" being played in the background on Hawaiian guitar.
+**Scene**: Four well-dressed men sitting together at a vacation resort. "Farewell to Thee" being played in the background on Hawaiian guitar.
 
 **Michael Palin**: Ahh.. Very passable, this, very passable.
 

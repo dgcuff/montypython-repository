@@ -11,7 +11,7 @@ tags:
 
 ---
 
-**Husband _(Terry Jones)_**:	Hello, my wife and I would like to buy a bed, please.
+**Husband _(Terry Jones)_**: Hello, my wife and I would like to buy a bed, please.
 
 **Mr Lambert _(Graham Chapman)_**: Certainly sir, I'll get someone to help you.
 
@@ -43,11 +43,11 @@ tags:
 
 **Husband**: Yes...
 
-**Wife**:	_(whispers)_ Sixty feet!
+**Wife**: _(whispers)_ Sixty feet!
 
 **Husband**: _(whispers)_ Six foot wide, you see.
 
-**Wife**:	_(whispers)_ Oh.
+**Wife**: _(whispers)_ Oh.
 
 **Husband**: ...and the length?
 
@@ -75,7 +75,7 @@ tags:
 
 **Verity**: I'm sorry, you have to say 'dog kennel' to Mr Lambert, because if you say 'mattress' he puts a bucket* over his head. I should have explained. Otherwise he's perfectly all right.
 
-**Husband**: Oh. Ah. I see.  Er, excuse me, could you show us the dog kennels, please, hm?
+**Husband**: Oh. Ah. I see. Er, excuse me, could you show us the dog kennels, please, hm?
 
 **Lambert**: Dog kennels?
 
@@ -171,10 +171,10 @@ _(The entire Mormon Tabernacle Choir begins to sing in the background. Sounds of
  
 **Lambert**: I'm sorry, can I help you?
 
-**Wife**:	_(brightly)_ We want a mattress!
+**Wife**: _(brightly)_ We want a mattress!
  
 _(Lambert puts the bucket over his head again. Verity, husband and assistants all groan and glare accusingly at wife)_
  
-**Wife**:	But it's my only line!!!
+**Wife**: But it's my only line!!!
  
-*N.B.  In the television version it was a paper bag, on the record it was a bucket (better sound effects?)
+*N.B. In the television version it was a paper bag, on the record it was a bucket (better sound effects?)

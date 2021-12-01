@@ -33,7 +33,7 @@ _He enters room 12._
 
 **Man**: What?
 
-**A**: SHUT YOUR FESTERING GOB, YOU TIT! YOUR TYPE MAKES ME PUKE!	YOU VACUOUS STUFFY-NOSED MALODOROUS PERVERT!!!
+**A**: SHUT YOUR FESTERING GOB, YOU TIT! YOUR TYPE MAKES ME PUKE! YOU VACUOUS STUFFY-NOSED MALODOROUS PERVERT!!!
 
 **M**: Yes, but I came here for an argument!!
 
@@ -55,7 +55,7 @@ _The man goes into room 12A. Another man is sitting behind a desk._
 
 **Other Man**: _(pause)_ I've told you once.
 
-**Man**:  No you haven't!
+**Man**: No you haven't!
 
 **Other Man**: Yes I have.
 

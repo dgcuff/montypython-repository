@@ -11,7 +11,7 @@ tags:
 
 ---
 
-**Scene**:	A large posh office. Two clients, well-dressed city gents, sit facing a large table at which stands Mr. Tid, the account manager of the architectural firm.
+**Scene**: A large posh office. Two clients, well-dressed city gents, sit facing a large table at which stands Mr. Tid, the account manager of the architectural firm.
 
 _(original cast: Mr Tid, Graham Chapman; Mr Wiggin, John Cleese; City Gent One, Michael Palin; Client 2:, Terry Jones; Mr Wymer, Eric Idle)_
 
@@ -69,7 +69,7 @@ _Mr. Wiggin enters._
 
 **Mr. Wiggin**: Oh sod the abattoir, that's not important. _(He dashes forward and kneels in front of them.)_ But if any of you could put in a word for me I'd love to be a mason. Masonry opens doors. I'd be very quiet, I was a bit on edge just now but if I were a mason I'd sit at the back and not get in anyone's way.
 
-**Client 1**: _(politely)_	Thank you.
+**Client 1**: _(politely)_ Thank you.
 
 **Mr. Wiggin**: ...I've got a second-hand apron.
 
@@ -125,4 +125,4 @@ _(They all shake hands, giving the secret Mason's handshake.)_
  
 _Cut to Mr. Wiggin watching at the window._
 
-**Mr. Wiggin _(turning to camera)_**:  It opens doors, I'm telling you.
+**Mr. Wiggin _(turning to camera)_**: It opens doors, I'm telling you.

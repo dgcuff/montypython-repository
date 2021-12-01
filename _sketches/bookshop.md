@@ -182,7 +182,7 @@ tags:
 
 **C**: The nuthatch?
 
-**P**: Right! _(flipping through the book)_	The nuthatch, the nuthatch, the nuthatch, 'ere we are! _(rrriiip!)_ There you are! NO gannets, NO robins, NO nuthatches, THERE's your book!
+**P**: Right! _(flipping through the book)_ The nuthatch, the nuthatch, the nuthatch, 'ere we are! _(rrriiip!)_ There you are! NO gannets, NO robins, NO nuthatches, THERE's your book!
 
 **C**: _(indignant)_ I can't buy that! It's torn!
 
@@ -202,11 +202,11 @@ tags:
 
 **C**: Ah...oh, I know! "Ethel the Aardvark goes Quantity Surveying".
 
-**P**: No, no, no, no, no,...What?	WHAT??????
+**P**: No, no, no, no, no,...What? WHAT??????
 
 **C**: "Ethel the Aardvark goes Quantity Surveying".
 
-**P**: "Ethel the Aa--" YES!!!YES!!! WE'VE GOT IT!! _(throwing books wildly about)_ I-I've seen it somewhere!!!	I know it!!! Hee hee hee hee hee!!! Ha ha hoo ho---WAIT!!	WAIT!!	Is it?? Is it??? _(triumphant)_ YES!!!!!! Here we are, "Ethel the Aardvark goes Quantity Surveying"!!!!! There's your book!! _(throwing it down)_ Now, BUY IT!!!
+**P**: "Ethel the Aa--" YES!!!YES!!! WE'VE GOT IT!! _(throwing books wildly about)_ I-I've seen it somewhere!!! I know it!!! Hee hee hee hee hee!!! Ha ha hoo ho---WAIT!! WAIT!! Is it?? Is it??? _(triumphant)_ YES!!!!!! Here we are, "Ethel the Aardvark goes Quantity Surveying"!!!!! There's your book!! _(throwing it down)_ Now, BUY IT!!!
 
 **C**: _(quickly)_ I don't have enough money.
 

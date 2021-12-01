@@ -35,11 +35,11 @@ tags:
 
 **Jones**: Jolly good. Fire away.
 
-**Idle**:	Bally Jerry... _(he goes through it all again)_
+**Idle**: Bally Jerry... _(he goes through it all again)_
 
 **Chapman**: No, I don't understand that banter at all.
 
-**Idle**:	Something up with my banter, chaps?
+**Idle**: Something up with my banter, chaps?
  
 **GRAMS**: AIR RAID SIRENS
 

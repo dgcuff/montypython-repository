@@ -13,7 +13,7 @@ tags:
 
 _(Banal intro music)_
  
-**Ghastly Quizmaster _(Cleese)_**: Hello, good evening and welcome to the very final edition of your favourite television quiz programme Spot the Braincell.  Thirty minutes of cheerful ritual humiliation of the old and greedy. And could we have our first contestant, please!
+**Ghastly Quizmaster _(Cleese)_**: Hello, good evening and welcome to the very final edition of your favourite television quiz programme Spot the Braincell. Thirty minutes of cheerful ritual humiliation of the old and greedy. And could we have our first contestant, please!
  
 _(Piano chords. Hostess (Chapman in drag) escorts Old ratbag (Jones in drag) onto stage.)_
  
@@ -57,7 +57,7 @@ _(Piano chords. Hostess (Chapman in drag) escorts Old ratbag (Jones in drag) ont
 
 **Ratbag**: Spam.
 
-**Quizmaster**: No, no, no, no. Penguins.	Penguins.
+**Quizmaster**: No, no, no, no. Penguins. Penguins.
 
 **Ratbag**: Horses.
 
