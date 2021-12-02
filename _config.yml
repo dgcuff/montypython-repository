@@ -11,6 +11,7 @@ twitter:
   username: "matt_zaske"
 read_time: true
 words_per_minute: 200
+github_repo_file_path_base: "https://github.com/zaskem/montypython-repository/blob/main/"
 
 # Collections
 collections:
