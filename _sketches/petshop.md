@@ -177,7 +177,7 @@ A LUMBERJACK!
 
 _(he takes off his white lab coat to reveal a checkered shirt and suspenders under it)_
 
-_Continued in [The Lumberjack Song](/sketches/lumberjack.md)
+_Continued in [The Lumberjack Song](/sketches/lumberjack.md)_
 
 ---
 ### Alternative Ending:

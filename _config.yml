@@ -4,6 +4,7 @@ locale: en-US
 skin: "/assets/css/skins/dark.css"
 title: "Matt's Monty Python Repository"
 description: "Home of Monty Python transcripts"
+baseurl: "/montypython-repository"
 url: "https://zaskem.github.io/montypython-repository"
 logo: "/images/pythonlogo.jpg"
 google_analytics: "UA-1931908-7"
