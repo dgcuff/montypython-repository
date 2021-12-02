@@ -1,5 +1,5 @@
 ---
-title: "The "I'm So Worried" Song"
+title: "The 'I'm So Worried' Song"
 categories:
   - other
 tags:

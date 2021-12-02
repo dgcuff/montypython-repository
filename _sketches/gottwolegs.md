@@ -1,5 +1,5 @@
 ---
-title: "The I've Got Two Legs Song"
+title: "The 'I've Got Two Legs' Song"
 categories:
   - other
 tags:
