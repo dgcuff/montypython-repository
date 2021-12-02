@@ -11,7 +11,7 @@ tags:
 
 ---
 
-_Continued from the ['Me, Doctor?' sketch](../medoctor.md)_
+_Continued from the ['Me, Doctor?' sketch](../medoctor)_
 
 _(A customer enters a pet shop)_
 
