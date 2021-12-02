@@ -115,4 +115,4 @@ _(Audience murmurs of 'yes' etc.)_
 
 **Host**: Oh shut up!
 
-_Continued in [It's the Arts -- Symphony](itstheartssymphony.md)_
+_Continued in [It's the Arts -- Symphony](../itstheartssymphony)_
