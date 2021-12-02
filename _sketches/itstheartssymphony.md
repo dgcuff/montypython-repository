@@ -11,7 +11,7 @@ tags:
 
 ---
 
-_Continued from [It's the Arts -- Cinema](itstheartscinema.md)_
+_Continued from [It's the Arts -- Cinema](../itstheartscinema)_
 
 **Host _(Eric Idle)_**: Last week the Royal Festival Hall saw the first performance of a new symphony by one of the world's leading modern composers, Arthur 'Two sheds' Jackson. Mr Jackson.
 

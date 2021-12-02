@@ -55,6 +55,6 @@ _(The barber fakes a few quick snips.)_
 
 **Barber**: All right, I confess I didn't cut your hair. I hate hair. I-I I can't bear cutting it. I have this uncontrolable fear whenever I see hair. My mother said I was a fool! She said the only way to overcome my fear would be to become a barber. I didn't want to be a barber.
 
-**Barber**: I wanted to be... A [*LUMBERJACK*](lumberjack.html)!
+**Barber**: I wanted to be... A [*LUMBERJACK*](../lumberjack)!
 
 _(music up)_

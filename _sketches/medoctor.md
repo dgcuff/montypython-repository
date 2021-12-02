@@ -53,6 +53,6 @@ _(Mr. Bertenshaw and his sick wife arrive at a hospital.)_
 
 **Customer**: I wish to register a complaint.
 
-**Sergeant-Major**: Well, this is a hospital. You want [the pet shop in the next sketch](petshop.md)...
+**Sergeant-Major**: Well, this is a hospital. You want [the pet shop in the next sketch](../petshop)...
 
-_Continued in [The Pet Shop Sketch](petshop.md)_
+_Continued in [The Pet Shop Sketch](../petshop)_
