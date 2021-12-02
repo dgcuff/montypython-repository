@@ -11,7 +11,7 @@ tags:
 
 ---
 
-_Continued from the ['Me, Doctor?' sketch](/sketches/medoctor)_
+_Continued from the ['Me, Doctor?' sketch](../medoctor)_
 
 _(A customer enters a pet shop)_
 
@@ -177,7 +177,7 @@ A LUMBERJACK!
 
 _(he takes off his white lab coat to reveal a checkered shirt and suspenders under it)_
 
-_Continued in [The Lumberjack Song](/sketches/lumberjack.md)_
+_Continued in [The Lumberjack Song](../lumberjack.md)_
 
 ---
 ### Alternative Ending:
