@@ -32,6 +32,24 @@ sitemap: false
   border-bottom: 1px dotted;
 }
 
+.page-sidebar {
+  font-size: 0.9rem;
+
+  .btn {
+    padding: 0.4em 0.6em;
+  }
+}
+
+.page-taxonomies-title {
+
+  @include breakpoint($large) {
+    font-size: 0.9rem;
+    padding-bottom: 0.1rem;
+    width: 100%;
+    border-bottom: 1px dotted
+  }
+}
+
 .page-content {
 
   .e-content {
