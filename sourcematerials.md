@@ -2,7 +2,11 @@
 Among the many files of the source materials is the index, the contents of which identifies many of the files in the archive along with a list of contributors and other various banter:
 
 ```
-Enclosed are the files you ordered.  Thank you for requesting the *Executive Version* of these files.  You are obviously a user of excellent taste who appreciates the finer things in life and is willing to pay the few extra pence for an article of real quality.  To you, our friend, we are proud to offer our new and improved collection of Python files, which now numbers over 60 (yes, sixty) rib-tickling, side-splitting virtual bundles of humor.
+Enclosed are the files you ordered.  Thank you for requesting the *Executive Version* of these files.
+You are obviously a user of excellent taste who appreciates the finer things in life and is willing to 
+pay the few extra pence for an article of real quality.  To you, our friend, we are proud to offer our 
+new and improved collection of Python files, which now numbers over 60 (yes, sixty) rib-tickling, 
+side-splitting virtual bundles of humor.
 
 To properly enjoy the files, follow these easy instructions:
  
@@ -11,9 +15,15 @@ To properly enjoy the files, follow these easy instructions:
 3)   Enjoy the file.
 4)   Repeat steps 2 and 3.
  
-In order to insure that your file collection has a long and happy life, please read it only in temperatures of 512-600 degrees Kelvin, feed it once per week (avoid raw vegetables), take it for frequent walks, and cleanse it every day in the finest quality spring water.  For best results, view on a full moon or through a thick piece of porterhouse steak.  Always rinse off the file with fresh water after reading it near, on, or in the ocean.
+In order to insure that your file collection has a long and happy life, please read it only in 
+temperatures of 512-600 degrees Kelvin, feed it once per week (avoid raw vegetables), take it for 
+frequent walks, and cleanse it every day in the finest quality spring water.  For best results, view 
+on a full moon or through a thick piece of porterhouse steak.  Always rinse off the file with fresh 
+water after reading it near, on, or in the ocean.
  
-Also available for the most voracious of Python file readers is our new service, PYTHON UPDATE.  If you have a full collection of python files but wish to make sure you stay on top of our most recent developments, simply send a memo to CLARINET@YALEVM stating
+Also available for the most voracious of Python file readers is our new service, PYTHON UPDATE.  
+If you have a full collection of python files but wish to make sure you stay on top of our most recent 
+developments, simply send a memo to CLARINET@YALEVM stating
  
    "Please send me all Python files which have been created or updated since
    5/13/86"  <--- (or whatever date your last update was)
