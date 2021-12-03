@@ -20,6 +20,9 @@ layout: default
         {% include page-categories.html %}
         {% include page-tags.html %}
         {% include page-contribute.html %}
+        {% if page.share %}
+          {% include sidebar-share.html %}
+        {% endif %}
       </div>
 
       <div class="page-content">
