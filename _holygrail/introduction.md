@@ -18,7 +18,7 @@ Oh yes... I will STRESS this fact once more... THIS IS A SCREENPLAY... So don't 
 
 -Grue (09-Aug-92)
 
-As a side note, to the note above about "_Any Scene or dialogue that was crossed out begins with a "\|" before it. Anything Penciled in has a "+", I also put cut information before penciled in._" I've added markdown formatting for these changes with an :information: :heavy-minus-sign: [^-] or :information: :heavy-plus-sign: [^+] emoji sequence at the beginning of any affected line, with cut text additionally ~~struck out~~.
+As a side note, to the note above about "_Any Scene or dialogue that was crossed out begins with a "\|" before it. Anything Penciled in has a "+", I also put cut information before penciled in._" I've added markdown formatting for these changes with an :information_source: :heavy_minus_sign: [^-] or :information_source: :heavy_plus_sign: [^+] emoji sequence at the beginning of any affected line, with cut text additionally ~~struck out~~.
 
 Leveraging the power of Github, folks are welcome to edit the source file and submit a pull request for consideration. Minor corrections such as spelling or typographic errors (not additive or subtractive of content) will almost certainly be approved. Folks can also submit an issue/suggestion for consideration.
 
