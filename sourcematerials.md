@@ -1,4 +1,15 @@
 # Original Monty Python Source Materials
+
+## _Monty Python and the Holy Grail_
+The screenplay for _Monty Python and the Holy Grail_ was not included in/among the sketches, even though it had some bits of the movie. I don't remember where I picked it up, but the [introduction]() document speaks to the nature of the screenplay and how it may vary from the theatrical release.
+
+## Monty Python's _Life of Brian_
+Most of the material is sourced from a [sister site](), though some transcriptions were included in the sketch data listed below.
+
+## Monty Python's _The Meaning of Life_
+Most of the material is sourced from a [sister site](), though some transcriptions were included in the sketch data listed below.
+
+## Monty Python Transcribed Skits and Sketches
 Among the many files of the source materials is the index, the contents of which identifies many of the files in the archive along with a list of contributors and other various banter:
 
 ```
@@ -121,6 +132,8 @@ The following list of file names and subjects appears only in the Executive Vers
 
 ### Monty Python and The Holy Grail
 
+_Note that these film transcriptions are not included in this repository_
+
 _(Number denotes order in the HOLY GRAIL series)_
 * SWALLOW  - the opening scene from "Holy Grail"                              (1)
 * DEAD     - the 'Bring out your dead' scene from "Holy Grail"                (2)
@@ -139,6 +152,9 @@ _(Number denotes order in the HOLY GRAIL series)_
 * BRIDGE   - the Bridgekeeper scene from "Holy Grail"                        (14)
 
 ### Monty Python's _Life of Brian_
+
+_Note that these film transcriptions are not included in this repository_
+
 * BIGNOSE  - the 'Big Nose' scene from "Life of Brian"
 * BRIAN    - the opening song from "Life of Brian"
 * BRIGHT - the 'Always Look on the Bright Side of Life' song from "Life of Brian"
@@ -150,6 +166,9 @@ _(Number denotes order in the HOLY GRAIL series)_
 * WISEMEN  - the nativity scene from "Life of Brian"
 
 ### Monty Python's _The Meaning of Life_
+
+_Note that these film transcriptions are not included in this repository_
+
 * DONG     - the 'Not Noel Coward' Song from "Meaning of Life"
 * GALAXY   - the Galaxy song from "Meaning of Life"
 * SPERM    - the 'Every Sperm is Sacred' song from "The Meaning of Life"
