@@ -18,7 +18,7 @@ Oh yes... I will STRESS this fact once more... THIS IS A SCREENPLAY... So don't 
 
 -Grue (09-Aug-92)
 
-As a side note, to the note above about "_Any Scene or dialogue that was crossed out begins with a "\|" before it. Anything Penciled in has a "+", I also put cut information before penciled in._" I've added markdown formatting for these changes by highlighting with a style for <span>removed</span>{: .notice--danger} or <span>added</span>{: .notice--success} text, with cut text additionally <span>~~struck out~~</span>{: .notice--danger}.
+As a side note, to the note above about "_Any Scene or dialogue that was crossed out begins with a "\|" before it. Anything Penciled in has a "+", I also put cut information before penciled in._" I've added markdown formatting for these changes by highlighting with a style for <span>removed</span>{: .notice--warning} or <span>added</span>{: .notice--success} text, with cut text additionally <span>~~struck out~~</span>{: .notice--warning}.
 
 Leveraging the power of Github, folks are welcome to edit the source file and submit a pull request for consideration. Minor corrections such as spelling or typographic errors (not additive or subtractive of content) will almost certainly be approved. Folks can also submit an issue/suggestion for consideration.
 

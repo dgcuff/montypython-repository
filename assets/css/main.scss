@@ -74,5 +74,9 @@ sitemap: false
       border-top: 1px dotted;
       border-bottom: 1px dashed;
     }
+
+    .notice--warning, .notice--success {
+      padding: 0.2em;
+    }
   }
 }
