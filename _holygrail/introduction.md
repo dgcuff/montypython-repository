@@ -10,7 +10,7 @@ Please Read This Bit Before Reading The Screenplay:
 
 This is the official 'Unofficial' Monty Python And The Holy Grail screenplay. This file contains the script as it was on March 20 1974, before filming took place. There are many minor differences from what appears here and what ended up on the screen. I.E. A paraphrased word or two or another character used a line... But generally in minor lines like 'LOOK!' This file also contains cut scenes and lines from the film.
 
-I tried to preserve as much of the screenplay as possible but it isn't easy to cross out a section and pencil in new dialogue, in ASCII. Any Scene or dialogue that was crossed out begins with a "|" before it. Anything Penciled in has a "+", I also put cut information before penciled in. As a side note, I've color-coded these changes in bold yellow, and they'll look like this: | and + -- Matt Zaske
+I tried to preserve as much of the screenplay as possible but it isn't easy to cross out a section and pencil in new dialogue, in ASCII. Any Scene or dialogue that was crossed out begins with a "|" before it. Anything Penciled in has a "+", I also put cut information before penciled in.
 
 What is interesting about a screenplay is to see what they threw out and what "Catch Phrases" were literally penciled in. The reason I keyed in this file was caused by me downloading current transcript going around internet. It was an amazing job... I wouldn't want to have attempted what he did... But it wasn't in a good script format and I didn't like how direction was written in. Since I HAD the real screenplay I thought... What the hell!
 
@@ -18,9 +18,11 @@ Oh yes... I will STRESS this fact once more... THIS IS A SCREENPLAY... So don't 
 
 -Grue (09-Aug-92)
 
-As an additional personal note on my behalf, I'd like to add that I will be willing to make any and all justified changes to the script in order to make it more accurate to the final movie. This does not include the addition or omission of cut parts, necessarily. If you see something that's not consistent with the movie, I urge you to fill out the SuggestionBox form. I will update and credit as appropriate. I'm particularly interested with spelling and grammatical errors, since it would quite literally take forever for me to find them all myself.
+As a side note, to the note above about "_Any Scene or dialogue that was crossed out begins with a "|" before it. Anything Penciled in has a "+", I also put cut information before penciled in._" I've added markdown formatting for these changes with an :information::heavy-minus-sign:[^-] or :information::heavy-plus-sign:[^+] emoji sequence at the beginning of any affected line, with cut text additionally ~~struck out~~.
 
--Matt (11-Aug-99)
+Leveraging the power of Github, folks are welcome to edit the source file and submit a pull request for consideration. Minor corrections such as spelling or typographic errors (not additive or subtractive of content) will almost certainly be approved. Folks can also submit an issue/suggestion for consideration.
+
+-Matt (12/2021)
 
 ---
 
@@ -49,3 +51,6 @@ Clear Cut, which is Scene 4
 Sc Spot
 
 No. Complete DIALOGUE No. Start End Ftge. 
+
+[^-]: Subtraction
+[^+]: Addition
