@@ -3,7 +3,7 @@ title: Monty Python and the Holy Grail
 layout: collection
 permalink: /holygrail/
 collection: holygrail
-entries_layout: grid
+entries_layout: list
 show_excerpts: false
 sort_by: filmorder
 ---
