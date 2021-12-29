@@ -18,24 +18,26 @@ Oh yes... I will STRESS this fact once more... THIS IS A SCREENPLAY... So don't 
 
 -Grue (09-Aug-92)
 
-As a side note, to the note above about "_Any Scene or dialogue that was crossed out begins with a "\|" before it. Anything Penciled in has a "+", I also put cut information before penciled in._" I've added markdown formatting for these changes by highlighting with a style for <span>removed</span>{: .notice--warning} or <span>added</span>{: .notice--success} text, with cut text additionally <span>~~struck out~~</span>{: .notice--warning}.
+As a side note, to the note above about "_Any Scene or dialogue that was crossed out begins with a "\|" before it. Anything Penciled in has a "+", I also put cut information before penciled in._" I've removed the text notations (pipe and plus) and added markdown formatting for these changes by highlighting <span>removed</span>{: .notice--warning} or <span>added</span>{: .notice--success} text, where cut text additionally <span>~~struck out~~</span>{: .notice--warning}.
 
-Leveraging the power of Github, folks are welcome to edit the source file and submit a pull request for consideration. Minor corrections such as spelling or typographic errors (not additive or subtractive of content) will almost certainly be approved. Folks can also submit an issue/suggestion for consideration.
+This formatting is not applied for scenes that were cut in their entirety, as this is noted in the scene titles.
+
+Leveraging the power of Github, folks are welcome to edit the source file and submit a pull request for consideration. Minor corrections such as spelling or typographic errors (not additive or subtractive of content) will almost certainly be approved. Folks can also submit an issue/suggestion for consideration. Screenshots of the film in addition to (or replacing the old ones) are also welcome for submission via pull request.
 
 -Matt (12/2021)
 
 ---
 
-MONTY PYTHON
-AND THE HOLY GRAIL
+## MONTY PYTHON
+## AND THE HOLY GRAIL
 
-Screenplay by
+_Screenplay by_
 
-JOHN CLEESE
-GRAHAM CHAPMAN
-TERRY GILLIAM
-ERIC IDLE
-TERRY JONES
+JOHN CLEESE\
+GRAHAM CHAPMAN\
+TERRY GILLIAM\
+ERIC IDLE\
+TERRY JONES\
 MICHAEL PALIN
 
 FINAL DRAFT 20.3.74.
@@ -44,8 +46,8 @@ FINAL DRAFT 20.3.74.
 
 "MONTY PYTHON AND THE HOLY GRAIL" Reel 1 (1A) Page 1
 
-00.01 is the first action frame
-which is 391.00 before the first
+00.01 is the first action frame\
+which is 391.00 before the first\
 Clear Cut, which is Scene 4
 
 Sc Spot
