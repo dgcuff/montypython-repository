@@ -4,6 +4,7 @@ layout: collection
 permalink: /holygrail/
 collection: holygrail
 entries_layout: grid
+show_excerpts: false
 sort_by: filmorder
 ---
 
