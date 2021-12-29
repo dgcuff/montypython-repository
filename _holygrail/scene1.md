@@ -34,7 +34,7 @@ _Pause._
 
 **SOLDIER**: You've got two empty halves of coconuts and you're banging them together.
 
-**ARTHUR**: _(Scornfully)_ So? We have ridden since the snows of winter covered this land, through the kingdom of Mercea.
+**ARTHUR** _(Scornfully)_: So? We have ridden since the snows of winter covered this land, through the kingdom of Mercea.
 
 **SOLDIER**: Where did you get the coconuts?
 
