@@ -134,4 +134,4 @@ _They run off. Darkness. The MONSTER lumbering through on animation._
 
 <span>**VOICE OVER**: The cartoon peril was no more ... The Quest for Holy Grail could continue.</span>{: .notice--success}
 
-__ANIMATED SEQUENCE. Leads through to the group reappearing and seeing a distant opening to the cave. They reach the opening. It is day._
+_ANIMATED SEQUENCE. Leads through to the group reappearing and seeing a distant opening to the cave. They reach the opening. It is day._

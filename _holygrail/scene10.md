@@ -20,4 +20,4 @@ _We stay for a moment on the glade. A MIDDLE-AGED LADY in a C. & A. twin-set eme
 
 _CUT TO animated frame, with the words "The Tale of Sir Robin" on it. Pleasant pastoral music. MIX THROUGH TO:_
 
-<span>**VOICE**: "The Tale Of Sir Robin"</span>{: .notice--warning}
+<span>**VOICE**: "The Tale Of Sir Robin"</span>{: .notice--success}

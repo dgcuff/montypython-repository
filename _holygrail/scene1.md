@@ -64,7 +64,7 @@ _Pause._
 
 **ARTHUR**: Well, it doesn't matter. Go and tell your master that Arthur from the Court of Camelot is here.
 
-A Slight pause. Swirling mist. Silence.
+_A Slight pause. Swirling mist. Silence._
 
 **SOLDIER**: Look! To maintain air speed velocity, a swallow needs to beat its wings four hundred and ninety three times every second. right?
 

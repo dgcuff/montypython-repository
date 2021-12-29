@@ -68,7 +68,7 @@ we nurse and push the pram a lot\
 in war we're tough and able\
 quite indefatigable\
 between our quests we sequin vests\
-and dress like Betty gable\
+and dress like Betty Gable\
 it's a...
 
 **SECOND ADVISER**: HALT!

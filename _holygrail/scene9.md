@@ -144,6 +144,8 @@ _ARTHUR cuffs him. ARTHUR looks at the battlements. There is a loud twang. Look 
 
 _More shouts._
 
+![Wooden Rabbit Crushing Page](https://old.mzonline.com/python/hgimages/taunt4.jpg){: .align-right}
+
 **ARTHUR**: Run away!
 
 <span>~~**SIR GAWAIN** _(to his PAGE as they run away)_: It's only a model.~~</span>{: .notice--warning}
@@ -151,5 +153,3 @@ _More shouts._
 <span>~~**ARTHUR**: Sh!~~</span>{: .notice--warning}
 
 _They continue to retreat. The rabbit lands on GAWAIN'S PAGE who is already weighed down by enormous quantity of luggage._
-
-![Wooden Rabbit Crushing Page](https://old.mzonline.com/python/hgimages/taunt4.jpg){: .align-right}

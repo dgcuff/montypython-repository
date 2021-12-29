@@ -110,4 +110,4 @@ _Stirring music crescendo. They ride off._
 
 _CUT TO TITLES SEQUENCE Animation: "The Quest For The Holy Grail"_
 
-![The Quest For The Holy Grail](https://old.mzonline.com/python/hgimages/holygrail.jpg){: .align-right}
+![The Quest For The Holy Grail](https://old.mzonline.com/python/hgimages/holygrail.jpg){: .align-center}
