@@ -27,6 +27,9 @@ layout: page
 		<a href="#{{ category | slugify }}"><i class="far fa-list-alt"></i>{{ category }}</a>
 	</li>
 {% endfor %}
+	<li>
+		<a href="#holy-grail"><i class="far fa-list-alt"></i>holy grail</a>
+	</li>
 </ul>
 
 <hr />
@@ -34,7 +37,7 @@ layout: page
 <h2>Sketches by Category</h2>
 {% for category in categories %}
 <section id="{{ category | slugify | downcase }}" class="taxonomy-section">
-	<h2 class="taxonomy-title">{{ category }}</h2>
+	<h3 class="taxonomy-title">{{ category }}</h3>
 	 {% for sketch in site.sketches %}
 			{% if sketch.categories contains category %}
 			<div class="entries-{{ page.entries_layout | default: 'list' }}">
@@ -42,5 +45,11 @@ layout: page
 			</div>
 			{% endif %}
 	 {% endfor %}
-	</ul>
+</section>
 {% endfor %}
+<section id="holy-grail" class="taxonomy-section">
+	<h3 class="taxonomy-title">holy grail</h3>
+	<div class="entries-{{ page.entries_layout | default: 'list' }}">
+		<a href="/holygrail/#the-screenplay-index">See the Screenplay Index</a>
+	</div>
+</section>
