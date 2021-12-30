@@ -23,6 +23,8 @@ _(applause, which suddenly stops when the clap track tape breaks)_
 
 'Ello, Mrs. Teal, lovely to have you on the show. Now Mrs. Teal, if you're looking in tonight, this is for 15 pounds: and is to stop us from revealing the name of your LOVER IN BOLTON!! So, Mrs. Teal, send us 15 pounds, by return of post please, and your husband Trevor, and your lovely children Diane, Janice, and Juliet, need never know the name... of your LOVER IN BOLTON!
 
+![Nude Organist](/images/nudeorgan.jpg){: .align-right}
+
 _(applause; organ music. Shot of the organist, who has an afro and is stark naked.)_
  
 Thank you Onan! And now: a letter, a hotel registration book, and a series of photographs, which could add up to divorce, premature retirement, and possible criminal proceedings for a company director in Bromsgrove. He's a freemason, and a conservative M.P., so that's 3,000 pounds please Mr. S... thank you... to stop us from revealing:
@@ -31,7 +33,9 @@ Thank you Onan! And now: a letter, a hotel registration book, and a series of ph
 * The name of the three other people involved,
 * The youth organization to which they belonged,
 * and The shop where you bought the equipment!
- 
+
+![Nude Organist](/images/nudeorgan2.jpg){: .align-right}
+
 _(organ music)_
  
 But right now, yes everyone is the moment you've all been waiting for; it's time for our Stop the Film spots! As you know, the rules are very simple. We have taken a film which contains compromising scenes and unpleasant details which could wreck a man's career. _(gasp)_ But, the victim may 'phone me at any moment, and stop the film. But remember the money increases as the film goes on, so-o-o-o: the longer you leave it, the *more* you have to pay! Tonight, Stop the Film visits the little Thames-side village of Thames Ditton.
