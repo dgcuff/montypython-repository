@@ -1,7 +1,7 @@
 # Original Monty Python Source Materials
 
 ## _Monty Python and the Holy Grail_
-The screenplay for _Monty Python and the Holy Grail_ was not included in/among the sketches, even though it had some bits of the movie. I don't remember where I picked it up, but the [introduction]() document speaks to the nature of the screenplay and how it may vary from the theatrical release.
+The screenplay for _Monty Python and the Holy Grail_ was not included in/among the sketches, even though it had some bits of the movie. I don't remember where I picked it up, but the [introduction](/holygrail/introduction) document speaks to the nature of the screenplay and how it may vary from the theatrical release.
 
 ## Monty Python's _Life of Brian_
 Most of the material is sourced from a [sister site](), though some transcriptions were included in the sketch data listed below.
