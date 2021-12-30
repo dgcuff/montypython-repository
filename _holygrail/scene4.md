@@ -82,7 +82,7 @@ _ARTHUR draws his sword and approaches the BLACK KNIGHT. A furious fight now sta
 
 **BLACK KNIGHT** _(Glancing at his shoulder)_: 'Tis but a scratch.
 
-![Knight With Missing Arm](https://old.mzonline.com/python/hgimages/knight1.jpg){: .align-right}
+![Knight With Missing Arm](/images/knight1.jpg){: .align-right}
 
 **ARTHUR**: A scratch? Your arm's off.
 
@@ -98,7 +98,7 @@ _ARTHUR draws his sword and approaches the BLACK KNIGHT. A furious fight now sta
 
 _Another ten seconds furious fighting till ARTHUR chops the BLACK KNIGHT's other arm off, also at the shoulder. The arm plus sword, lies on the ground._
 
-![Knight With Both Arms Missing](https://old.mzonline.com/python/hgimages/knight2.jpg){: .align-right}
+![Knight With Both Arms Missing](/images/knight2.jpg){: .align-right}
 
 **ARTHUR**: Victory is mine.
 
@@ -134,7 +134,7 @@ _ARTHUR is kicked._
 
 _The BLACK KNIGHT kicks him again and ARTHUR chops his leg off. The BLACK KNIGHT keeps his balance with difficulty._
 
-![Knight With Missing Leg](https://old.mzonline.com/python/hgimages/knight3.jpg){: .align-right}
+![Knight With Missing Leg](/images/knight3.jpg){: .align-right}
 
 **BLACK KNIGHT**: I'll do you for that.
 
@@ -152,7 +152,7 @@ _The BLACK KNIGHT kicks him again and ARTHUR chops his leg off. The BLACK KNIGHT
 
 _ARTHUR takes his last leg off. The BLACK KNIGHT's body lands upright._
 
-![Knight At A Draw](https://old.mzonline.com/python/hgimages/knight4.jpg){: .align-right}
+![Knight At A Draw](/images/knight4.jpg){: .align-right}
 
 **BLACK KNIGHT**: All right, we'll call it a draw.
 

@@ -8,7 +8,7 @@ date: 2021-11-04 00:04:00
 
 _ARTHUR and PATSY riding. They stop and look. We see a castle in the distance, and before it a PEASANT is working away on his knees trying to dig up the earth with his bare hands and a twig. ARTHUR and PATSY ride up, and stop before the PEASANT_
 
-![Peasants](https://old.mzonline.com/python/hgimages/peasant1.jpg){: .align-right}
+![Peasants](/images/peasant1.jpg){: .align-right}
 
 **ARTHUR**: Old woman!
 
@@ -114,7 +114,7 @@ _DENNIS winks at the OLD WOMAN._\
 
 **ARTHUR** _(Grabbing him by the collar)_: Shut up, will you. Shut up!
 
-![Arthur Grabbing Peasant](https://old.mzonline.com/python/hgimages/peasant2.jpg){: .align-right}
+![Arthur Grabbing Peasant](/images/peasant2.jpg){: .align-right}
 
 **DENNIS**: Ah! NOW ... we see the violence inherent in the system.
 

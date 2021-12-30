@@ -18,7 +18,7 @@ _Then they pass three KNIGHTS sitting on the ground with one enormous axe throug
 
 _SIR ROBIN rides on a little way with the music building up enormous and terrifying tension, until suddenly there standing before him is an enormous THREE-HEADED KNIGHT._
 
-![Sir Robin and the Three Headed Knight](https://old.mzonline.com/python/hgimages/robin1.jpg){: .align-right}
+![Sir Robin and the Three Headed Knight](/images/robin1.jpg){: .align-right}
 
 **THREE HEADS**: Halt! Who art thou?
 
@@ -156,7 +156,7 @@ _From now on the THREE HEADS speak individually._
 
 <span>**FIRST HEAD**: Oh shut up.</span>{: .notice--success}
 
-![Three Headed Knight](https://old.mzonline.com/python/hgimages/robin2.jpg){: .align-right}
+![Three Headed Knight](/images/robin2.jpg){: .align-right}
 
 <span>**ROBIN**: Perhaps I could ...</span>{: .notice--success}
 

@@ -12,7 +12,7 @@ _From inside we see GALAHAD enter, wiping the rain from his eyes, and turn as th
 
 _GALAHAD turns back. We see from his POV the lovely ZOOT standing by him smiling enchantingly and a number of equally delectable GIRLIES draped around in the seductively poulticed room. They look at him smilingly and wave._
 
-![Zoot and Girlies](https://old.mzonline.com/python/hgimages/anthrax2.jpg){: .align-right}
+![Zoot and Girlies](/images/anthrax2.jpg){: .align-right}
 
 **GIRLIES**: Hello!
 
@@ -68,7 +68,7 @@ _GALAHAD looks at the other GIRLS. They are clearly on the verge of being offend
 
 _They reach the end of the corridor and enter the bedchamber. ZOOT turns_
 
-![Zoot and Sir Galahad](https://old.mzonline.com/python/hgimages/anthrax3.jpg){: .align-right}
+![Zoot and Sir Galahad](/images/anthrax3.jpg){: .align-right}
 
 **ZOOT**: We are just not used to handsome knights ...
 
@@ -100,7 +100,7 @@ _She almost forces him to lie on the bed as PIGLET and WINSTON enter the room. T
 
 **GALAHAD**: There's nothing wrong with ... that.
 
-![Winston and Piglet](https://old.mzonline.com/python/hgimages/anthrax4.jpg){: .align-right}
+![Winston and Piglet](/images/anthrax4.jpg){: .align-right}
 
 **PIGLET** _(slightly irritated)_: Please ... we are doctors.
 

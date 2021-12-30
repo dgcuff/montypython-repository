@@ -13,7 +13,7 @@ _CUT TO interior of medieval hall. A large group of armored KNIGHTS are engaged 
 We're knights of the round table\
 We dance whene'er we're able
 
-![Knights at Camelot](https://old.mzonline.com/python/hgimages/camelot2.jpg){: .align-right}
+![Knights at Camelot](/images/camelot2.jpg){: .align-right}
 
 We do routines and chorus scenes\
 With footwork impeccable.\
@@ -42,19 +42,19 @@ _CUT BACK TO ARTHUR and BEDEVERE and COMPANY as we had left them._
 
 **ARTHUR**: No, on second thought, let's not go to Camelot.
 
-![King Arthur at Camelot](https://old.mzonline.com/python/hgimages/camelot1.jpg){: .align-right}
+![King Arthur at Camelot](/images/camelot1.jpg){: .align-right}
 
 **KNIGHTS**: Right!
 
 **ARTHUR**: It is a silly place.
 
-![King Arthur and Knights](https://old.mzonline.com/python/hgimages/blessing1.jpg){: .align-right}
+![King Arthur and Knights](/images/blessing1.jpg){: .align-right}
 
 _They set off again almost immediately they are suffused in ethereal radiance and strange heavenly choir music. The PAGES, horselike, take fright for a moment, they whinny and rattle their coconuts. ARTHUR and the KNIGHTS fall on their knees. A holy voice booms out._
 
 **GOD**: Arthur! Arthur ... King of the Britons ...
 
-![King Arthur and Knights Hearing from God](https://old.mzonline.com/python/hgimages/blessing2.jpg){: .align-right}
+![King Arthur and Knights Hearing from God](/images/blessing2.jpg){: .align-right}
 
 _They all prostrate themselves even further._
 
@@ -64,7 +64,7 @@ _ARTHUR and COMPANY rise._
 
 **ARTHUR**: Sorry ...
 
-![God](https://old.mzonline.com/python/hgimages/blessing3.jpg){: .align-right}
+![God](/images/blessing3.jpg){: .align-right}
 
 **GOD**: And don't apologize. Every time I try to talk to someone it's sorry this and forgive me that and I'm not worthy and ... What are you doing now?
 
@@ -110,4 +110,4 @@ _Stirring music crescendo. They ride off._
 
 _CUT TO TITLES SEQUENCE Animation: "The Quest For The Holy Grail"_
 
-![The Quest For The Holy Grail](https://old.mzonline.com/python/hgimages/holygrail.jpg){: .align-center}
+![The Quest For The Holy Grail](/images/holygrail.jpg){: .align-center}

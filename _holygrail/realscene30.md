@@ -18,7 +18,7 @@ _ARTHUR looks at BEDEVERE._
 
 **TIM**: There are some who call me Tim?
 
-![Tim the Enchanter](https://old.mzonline.com/python/hgimages/tim.jpg){: .align-right}
+![Tim the Enchanter](/images/tim.jpg){: .align-right}
 
 **ARTHUR**: Greetings Tim the Enchanter!
 

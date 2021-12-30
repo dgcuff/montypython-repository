@@ -16,7 +16,7 @@ _SERVANT makes noises of horses halting, with a flourish. ARTHUR peers through t
 
 **ARTHUR**: It is I, Arthur, son of Uther Pendragon, from the castle of Camelot. King of all Britons, defeater of the Saxons, sovereign of all England!
 
-![Arthur and Patsy](https://old.mzonline.com/python/hgimages/swallow1.jpg){: .align-right}
+![Arthur and Patsy](/images/swallow1.jpg){: .align-right}
 
 _Pause._
 

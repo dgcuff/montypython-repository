@@ -8,7 +8,7 @@ date: 2021-11-04 00:03:00
 
 _CUT TO Terry Gilliam's sequence of Brueghel prints. Sounds of strange medieval music. Discordant and sparse. Wailings and groanings. The last picture mixes through into live action. BIG CLOSE UP of contorted face upside down. A leg falls across it. Creaking noise. The bodies lurch away from CAMERA to reveal they are amongst a huge pile of bodies on a swaying cart that is lumbering away from CAMERA. It is pulled by a couple of ragged, dirty emaciated WRETCHES. Behind the cart walks another MAN who looks slightly more prosperous, but only on the scale of complete and utter impoverishment. He wears a black hood and looks sinister._
 
-![Shot of Cart](https://old.mzonline.com/python/hgimages/dead1.jpg){: .align-right}
+![Shot of Cart](/images/dead1.jpg){: .align-right}
 
 **CART DRIVER**: Bring out your dead!
 
@@ -36,7 +36,7 @@ _There are legs sticking out of windows and doors. Two MEN are fighting in the m
 
 **LARGE MAN**: Yes he is.
 
-![Old Man Being Carried](https://old.mzonline.com/python/hgimages/dead2.jpg){: .align-right}
+![Old Man Being Carried](/images/dead2.jpg){: .align-right}
 
 **BODY**: I'm not!
 

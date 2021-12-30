@@ -10,7 +10,7 @@ _CUT TO the glade in the forest again._
 
 **ARTHUR**: Oh, Knights of Ni, here is your shrubbery. May we go now?
 
-![Knights With Shrubbery](https://old.mzonline.com/python/hgimages/knights3.jpg){: .align-right}
+![Knights With Shrubbery](/images/knights3.jpg){: .align-right}
 
 **TALL KNIGHT**: That is a good shrubbery. I like the laurels particularly - But there is one small problem.
 

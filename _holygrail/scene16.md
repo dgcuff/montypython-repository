@@ -38,7 +38,7 @@ _Spooky music. They are thoroughly shaken, and they begin to hear noises of peop
 
 _Sudden CUT TO BIG CLOSE-UP of a frightening black-browed evil face._
 
-![Knight of Ni](https://old.mzonline.com/python/hgimages/knights2.jpg){: .align-right}
+![Knight of Ni](/images/knights2.jpg){: .align-right}
 
 **TALL KNIGHT OF NI**: Ni!
 
@@ -54,7 +54,7 @@ _ARTHUR peers into the darkness._
 
 _An extraordinary TALL KNIGHT in all black (possibly John with Mike on his shoulders) walks out from the dark trees. He is extremely fierce and gruesome countenance. He walks towards KING ARTHUR and PATSY, who are wazzing like mad. (Salopian slang, meaning very scared. almost to the point of wetting oneself, e.g. before an important football match or prior to a postering. Salopian slang meaning a beating by the school praeposters. Sorry about the Salopian slant to this stage direction - Ed.)_
 
-![Knights of Ni](https://old.mzonline.com/python/hgimages/knights1.jpg){: .align-right}
+![Knights of Ni](/images/knights1.jpg){: .align-right}
 
 **ARTHUR** _(wazzed stiff)_: Who are you?
 

@@ -36,7 +36,7 @@ _They are stunned._
 
 <span>**MAN**: I told him we already got one.</span>{: .notice--success}
 
-![French Gigglers](https://old.mzonline.com/python/hgimages/taunt5.jpg){: .align-right}
+![French Gigglers](/images/taunt5.jpg){: .align-right}
 
 <span>_They all giggle._</span>{: .notice--success}
 
@@ -60,7 +60,7 @@ _Murmurs of assent._
 
 _He puts hands to his ears and blows a raspberry._
 
-![French Taunters](https://old.mzonline.com/python/hgimages/taunt1.jpg){: .align-right}
+![French Taunters](/images/taunt1.jpg){: .align-right}
 
 **GALAHAD**: What a strange person.
 
@@ -88,7 +88,7 @@ _CUT BACK TO ARTHUR._
 
 _A cow comes flying over the battlements, lowing aggressively. The cow lands on GALAHAD'S PAGE, squashing him completely._
 
-![Cow Over The Battlements](https://old.mzonline.com/python/hgimages/taunt3.jpg){: .align-right}
+![Cow Over The Battlements](/images/taunt3.jpg){: .align-right}
 
 <span>~~**ROBIN**: What a cruel thing to do.~~</span>{: .notice--warning}
 
@@ -120,7 +120,7 @@ _CLOSE-UP FRENCH looking very nervous. Dawn breaking. Shot of woodland. Nothing.
 
 _CUT TO WIDE SHOT of castle and woodland. Squeaking getting louder. Shot of the FRENCH TAUNTER pointing. WIDE SHOT again. The squeaking gets louder an enormous twenty-foot-high wooden rabbit is wheeled out of the undergrowth into the open space in front of the castle. The ENGLISH scuttle back into the undergrowth. The rabbit has a large red bow tied round it and a rather crudely written label, which reads "Pour votres amis Francais". The CHIEF TAUNTER looks at it, narrowing his eyes. Then he turns and leaves battlements._
 
-![Giant Wooden Rabbit](https://old.mzonline.com/python/hgimages/taunt2.jpg){: .align-right}
+![Giant Wooden Rabbit](/images/taunt2.jpg){: .align-right}
 
 _CUT TO ARTHUR and COMPANY watching from the bushes. The main gate of the castle opens a little and the CHIEF TAUNTER's head sticks out, then another Froggie head, then another. They mutter to each other in French, look rather pleased, then rush out and start to pull the giant rabbit in._
 
@@ -144,7 +144,7 @@ _ARTHUR cuffs him. ARTHUR looks at the battlements. There is a loud twang. Look 
 
 _More shouts._
 
-![Wooden Rabbit Crushing Page](https://old.mzonline.com/python/hgimages/taunt4.jpg){: .align-right}
+![Wooden Rabbit Crushing Page](/images/taunt4.jpg){: .align-right}
 
 **ARTHUR**: Run away!
 

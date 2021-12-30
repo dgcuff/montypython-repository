@@ -36,7 +36,7 @@ _Stir among KNIGHTS._
 
 **TIM**: There he is!
 
-![Shot of the Rabbit](https://old.mzonline.com/python/hgimages/grenade1.jpg){: .align-right}
+![Shot of the Rabbit](/images/grenade1.jpg){: .align-right}
 
 _They all turn, and see a large white RABBIT lollop a few yards out of the cave. Accompanied by terrifying chord and jarring metallic monster noise._
 
@@ -152,7 +152,7 @@ _GALAHAD cannot find a suitable answer to this._
 
 _Slight pause. Then from the area where the 'HORSES' are, a small group of MONKS process forward towards the KNIGHTS, the leading MONK bearing and ornate golden reliquary, and the accompanying MONKS chanting and waving incense. They reach the KNIGHTS. The hand grenade is suffused with the holy glow._
 
-![Monks with Holy Handgrenade](https://old.mzonline.com/python/hgimages/grenade2.jpg){: .align-right}
+![Monks with Holy Handgrenade](/images/grenade2.jpg){: .align-right}
 
 _ARTHUR takes it. Pause._
 
@@ -164,7 +164,7 @@ _ARTHUR takes it. Pause._
 
 **BROTHER MAYNARD**: Armaments Chapter Two Verses Nine to Twenty One.
 
-![Monk Reading From Bible](https://old.mzonline.com/python/hgimages/grenade3.jpg){: .align-right}
+![Monk Reading From Bible](/images/grenade3.jpg){: .align-right}
 
 **ANOTHER MONK** _(reading from bible)_: And St. Attila raised his hand grenade up on high saying "O Lord bless this thy hand grenade that with it thou mayest blow thine enemies to tiny bits, in thy mercy. " And the Lord did grin and people did feast upon the lambs and sloths and carp and anchovies and orang-utans and breakfast cereals and fruit bats and...
 
@@ -178,7 +178,7 @@ _He pulls Pin out. The MONK blesses the grenade as ..._
 
 **ARTHUR** (quietly): One, two,
 
-![Arthur Preparing To Throw](https://old.mzonline.com/python/hgimages/grenade4.jpg){: .align-right}
+![Arthur Preparing To Throw](/images/grenade4.jpg){: .align-right}
 
 <span>~~**ARTHUR**: three ...~~</span>{: .notice--warning}
 

@@ -20,7 +20,7 @@ _A village. Sound of chanting of Latin canon, punctuated by short, sharp cracks.
 
 _They bring her forward - a beautiful YOUNG GIRL (MISS ISLINGTON) dressed up as a witch._
 
-![Witch And Bedevere](https://old.mzonline.com/python/hgimages/witch2.jpg){: .align-right}
+![Witch And Bedevere](/images/witch2.jpg){: .align-right}
 
 **WITCH**: I am not a witch. I am not a witch.
 
@@ -86,7 +86,7 @@ _PEASANTS stir uneasily then come round to this conclusion._
 
 **FIRST VILLAGER**: Make a bridge out of her.
 
-![Villagers](https://old.mzonline.com/python/hgimages/witch1.jpg){: .align-right}
+![Villagers](/images/witch1.jpg){: .align-right}
 
 **BEDEVERE**: Ah ... but can you not also make bridges out of stone?
 
@@ -122,7 +122,7 @@ _He leads them a few yards to a very strange contraption indeed, made of wood an
 
 _Two PEASANTS knock them away with sledge hammers. The GIRL and the duck swing slightly but balance perfectly._
 
-![Witch And Duck](https://old.mzonline.com/python/hgimages/witch3.jpg){: .align-right}
+![Witch And Duck](/images/witch3.jpg){: .align-right}
 
 **ALL**: A witch! A witch!
 
