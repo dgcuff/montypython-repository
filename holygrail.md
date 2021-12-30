@@ -8,7 +8,7 @@ show_excerpts: false
 sort_by: filmorder
 ---
 
-![The Quest for the Holy Grail](https://old.mzonline.com/python/hgimages/holygrail.jpg){: .align-center}
+![The Quest for the Holy Grail](/images/holy_grail_poster.jpg){: .align-center}
 
 ---
 
