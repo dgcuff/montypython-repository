@@ -11,7 +11,7 @@ tags:
 
 ---
 
-**Mother**: _(turning off radio)_ liberal rubbish! Klaus!
+**Mother**: _(turning off radio)_ Liberal rubbish! Klaus!
 
 **Klaus**: Yeah?
 
@@ -59,7 +59,7 @@ _**Voice over**: One slice of strawberry tart without so much rat in it later:_
  
 **K**: _(putting down fork and knife)_ Appalling.
 
-**M**: Naw, naw, naw!
+**M**: Moan, moan, moan!
 
 **Son**: _(coming in the door)_ 'Ello Mum. 'Ello Dad.
 
@@ -79,7 +79,7 @@ _**Voice over**: One slice of strawberry tart without so much rat in it later:_
 
 **K**: _(getting up and going out the door)_ I'll go and have a look.
 
-**M**: I don't know...kids bringin' 'em in here....
+**M**: I don't know who keeps bringin' 'em in here....
 
 **S**: It's not me!
 
@@ -137,4 +137,4 @@ _(thunder)_
 
 **D**: Right. I'll now ask you all to conclude this harrest with a hymn.
 
-**All**: All things bright and beautiful, All creatures great and small, All things wise and wonderful, The church has nigged them all. Amen.
+**All**: All things bright and beautiful, All creatures great and small, All things wise and wonderful, The church fuzz nicks them all. Amen.
